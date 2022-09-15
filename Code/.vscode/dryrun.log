@@ -1,0 +1,6 @@
+make --dry-run --always-make --keep-going --print-directory
+make: Entering directory '/home/ethan/Documents/Learning/C++_program/Code'
+make: Leaving directory '/home/ethan/Documents/Learning/C++_program/Code'
+ 
+make: *** No targets specified and no makefile found.  Stop.
+
